@@ -27,5 +27,5 @@ Here, you'll find a collection of mini projects I've created to practice Flutter
 
 ### Project Demo
 
-<img src="https://github.com/Maryam-Ejaz/Maryam-Ejaz/Dart-Flutter-Mini-Projects/main/demo.gif" width="1300" height= "350" />
+<img src="https://github.com/Maryam-Ejaz/Maryam-Ejaz/Dart-Flutter-Mini-Projects/main/demo.gif/" width="1300" height= "300" />
 
