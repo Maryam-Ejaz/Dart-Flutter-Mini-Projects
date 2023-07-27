@@ -23,3 +23,9 @@ Here, you'll find a collection of mini projects I've created to practice Flutter
 - Shared Preferences: I've used shared preferences to store small amounts of data locally for efficient app state management.
 
 - REST API CRUD: I've performed Create, Read, Update, and Delete operations using RESTful APIs to interact with external data sources.
+
+
+### Project Demo
+
+[![Project Demo]](https://raw.githubusercontent.com/maryam-ejaz/Dart-Flutter-Mini-Projects/main/demo.mp4)
+
