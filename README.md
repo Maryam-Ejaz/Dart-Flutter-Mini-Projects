@@ -27,7 +27,7 @@ Here, you'll find a collection of mini projects I've created to practice Flutter
 
 ### Project Demos
 
-<img src="https://github.com/Maryam-Ejaz/Dart-Flutter-Mini-Projects/blob/main/demo_1.gif" width="1300" height= "300" />
-<img src="https://github.com/Maryam-Ejaz/Dart-Flutter-Mini-Projects/blob/main/demo_2.gif" width="1300" height= "300" />
-<img src="https://github.com/Maryam-Ejaz/Dart-Flutter-Mini-Projects/blob/main/demo_3.gif" width="1300" height= "300" />
+<img src="https://github.com/Maryam-Ejaz/Dart-Flutter-Mini-Projects/blob/main/demo_1.gif" width="1000" height= "500" />
+<img src="https://github.com/Maryam-Ejaz/Dart-Flutter-Mini-Projects/blob/main/demo_2.gif" width="1000" height= "500" />
+<img src="https://github.com/Maryam-Ejaz/Dart-Flutter-Mini-Projects/blob/main/demo_3.gif" width="1000" height= "500" />
 
