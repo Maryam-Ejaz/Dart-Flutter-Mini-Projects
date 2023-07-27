@@ -25,7 +25,9 @@ Here, you'll find a collection of mini projects I've created to practice Flutter
 - REST API CRUD: I've performed Create, Read, Update, and Delete operations using RESTful APIs to interact with external data sources.
 
 
-### Project Demo
+### Project Demos
 
-<img src="https://github.com/Maryam-Ejaz/Maryam-Ejaz/Dart-Flutter-Mini-Projects/main/demo.gif/" width="1300" height= "300" />
+<img src="https://github.com/Maryam-Ejaz/Maryam-Ejaz/Dart-Flutter-Mini-Projects/main/demo_1.gif/" width="1300" height= "300" />
+<img src="https://github.com/Maryam-Ejaz/Maryam-Ejaz/Dart-Flutter-Mini-Projects/main/demo_2.gif/" width="1300" height= "300" />
+<img src="https://github.com/Maryam-Ejaz/Maryam-Ejaz/Dart-Flutter-Mini-Projects/main/demo_3.gif/" width="1300" height= "300" />
 
